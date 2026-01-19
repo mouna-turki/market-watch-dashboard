@@ -10,10 +10,12 @@ A real-time financial dashboard built with **Python** and **Streamlit** to track
 
 ## Screenshots
 ### Market Overview
-*(Upload your first screenshot here)*
+<img width="1509" height="863" alt="Screenshot 2026-01-19 at 11 40 14 AM" src="https://github.com/user-attachments/assets/6ff500a3-db10-4ef5-9c6d-2bf746385efb" />
+
 
 ### Portfolio Analysis
-*(Upload your second screenshot here)*
+<img width="1511" height="864" alt="Screenshot 2026-01-19 at 11 40 22 AM" src="https://github.com/user-attachments/assets/e6e17a4f-c5a8-4397-b988-999e586c6cfe" />
+
 
 ## How to Run
 1.  Clone the repo:
