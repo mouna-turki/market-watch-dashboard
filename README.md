@@ -20,7 +20,7 @@ A real-time financial dashboard built with **Python** and **Streamlit** to track
 ## How to Run
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/market-watch-dashboard.git](https://github.com/YOUR_USERNAME/market-watch-dashboard.git)
+    git clone [https://github.com/mouna-turki/market-watch-dashboard.git](https://github.com/mouna-turki/market-watch-dashboard.git)
     ```
 2.  Install requirements:
     ```bash
@@ -30,3 +30,5 @@ A real-time financial dashboard built with **Python** and **Streamlit** to track
     ```bash
     streamlit run dashboard.py
     ```
+
+    
